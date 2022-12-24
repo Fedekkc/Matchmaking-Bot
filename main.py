@@ -194,6 +194,7 @@ def leaderboard(): # ESTA FUNCION IMPRIME DIRECTAMENTE UNA LEADERBOARD BASADA EN
 		#print("Posicion {}:".format(contador))
 		#print(str(f).replace("(","").replace(",","").replace(")","").replace("'","").replace(" "," | ") + " Puntos")
 	return lista
+	#
 
 	
 def matchmaking(ID): # EL RETURN DE ESTA FUNCIÓN DEVUELVE UNA LISTA CON LOS POSIBLES RIVALES, EL PROGRAMA BASE SERÁ EL ENCARGADO DE EMPAREJAR AL USUARIO CON CUALQUIERA DE ESA LISTA
