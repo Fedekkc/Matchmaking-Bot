@@ -13,6 +13,6 @@ del codigo o en el archivo BD_INFO.json.
 This bot has different functions, only dedicated
 to the matchmaking based on a databse, hosted and
 tested in a local server (localhost).
-If you want this bot to work, you may need to add
+If you want this bot to work, you will need to add
 your database credentials on the BD_INFO.json
 file.
